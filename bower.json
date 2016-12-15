@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap final",
+  "authors": [
+    "AP22 <amritpaul_22@live.ca>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha",
+    "jquery": "^3.1.1"
+  }
+}
